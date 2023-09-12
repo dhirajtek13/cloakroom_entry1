@@ -1,3 +1,6 @@
 {
-    "newTokens": [1,2,33]
+    "newTokens": {
+        "checkin":[1,2,33],
+        "checkout":[12,34]
+    }
 }
