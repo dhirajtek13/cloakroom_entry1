@@ -1,6 +1,6 @@
 {
     "newTokens": {
-        "checkin":[1,2,33],
-        "checkout":[12,34]
+        "checkout_requested":[1,2,33],
+        "bag_returned":[12,34]
     }
 }
