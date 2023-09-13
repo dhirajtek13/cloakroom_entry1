@@ -1,6 +1,12 @@
 {
     "newTokens": {
         "checkout_requested":[1,2,33],
+        "checkout_requests_time" : {
+            "1": "1694596190966",
+            "2": "1694596328163",
+            "33": "1694596339163"
+
+        },
         "bag_returned":[12,34]
     }
 }
